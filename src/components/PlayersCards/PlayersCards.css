@@ -1,13 +1,4 @@
 .player-main{
-    background-color: tomato;
-}
-
-.players-div{
-    width: 70%;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    height: 500px;
-}
-.side-bar{
-    width: 30%;
+    text-align: center;
+    color: indigo;
 }
