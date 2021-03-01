@@ -4,7 +4,8 @@
     padding: 20px 10px;
 }
 .player-card{
-    text-align: center;
+    align-items: center;
+    justify-content: center;
     background-color: black;
     color: white;
     height: 450px;
