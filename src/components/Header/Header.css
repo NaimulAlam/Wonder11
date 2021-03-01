@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+    background-color: lightblue;
+    padding: 20px;
+}
+.header-block a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+.header-block a:hover{
+    background-color: gainsboro;
+}

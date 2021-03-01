@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Robert Lewandowski",
+    "salary": 9.50,
+    "club": "Bayern Munich",
+    "nationality": "Poland",
+    "age": 35,
+    "img": "https://i.ibb.co/vcxg23k/RL9.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Lionel Messi",
+    "salary": 9.48,
+    "club": "FC Barcelona",
+    "nationality": "Argentina",
+    "age": 20,
+    "img": "https://i.ibb.co/DbXZ5fP/Messi.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cristiano Ronaldo",
+    "salary": 9.72,
+    "club": "Juventus",
+    "nationality": "Portugal",
+    "age": 20,
+    "img": "https://i.ibb.co/MCBM3JN/CR7.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Mohamed Salah",
+    "salary": 5.17,
+    "club": "Liverpool",
+    "nationality": "Egypt",
+    "age": 34,
+    "img": "https://i.ibb.co/FhN5J2p/salah.png"
+  },
+  {
+    "id": 5,
+    "name": "Kylian Mbappé",
+    "salary": 7.76,
+    "club": "Paris S-G",
+    "nationality": "France",
+    "age": 26,
+    "img": "https://i.ibb.co/5sJGyxW/mbappe.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Luis Suárez",
+    "salary": 3.92,
+    "club": "Atlético Madrid",
+    "nationality": "Uruguay",
+    "age": 29,
+    "img": "https://i.ibb.co/hyB4j9m/suarez.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Romelu Lukaku",
+    "salary": 4.89,
+    "club": "Inter Milan",
+    "nationality": "Belgium",
+    "age": 27,
+    "img": "https://i.ibb.co/4SNGBV4/lukaku.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Harry Kane",
+    "salary": 2.45,
+    "club": "Tottenham",
+    "nationality": "England",
+    "age": 27,
+    "img": "https://i.ibb.co/cDj20zL/harry-Kane.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jordi Alba",
+    "salary": 1.99,
+    "club": "FC Barcelona",
+    "nationality": "Spain",
+    "age": 31,
+    "img": "https://i.ibb.co/Z87xy7v/jordi-Alba.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Manuel Neuer",
+    "salary": 6.94,
+    "club": "Bayern Munich",
+    "nationality": "Germany",
+    "age": 34,
+    "img": "https://i.ibb.co/99g0Knn/neuer.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Jan Oblak",
+    "salary": 4.21,
+    "club": "Atlético Madrid",
+    "nationality": "Slovenia",
+    "age": 28,
+    "img": "https://i.ibb.co/F3Wgh3C/oblak.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sergio Ramos",
+    "salary": 3.02,
+    "club": "Real Madrid",
+    "nationality": "Spain",
+    "age": 34,
+    "img": "https://i.ibb.co/vwJM1Jq/sargio-Ramos.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Raphaël Varane",
+    "salary": 6.39,
+    "club": "Real Madrid",
+    "nationality": "France",
+    "age": 27,
+    "img": "https://i.ibb.co/ftpKXbb/Varane.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Bernardo Silva",
+    "salary": 8.19,
+    "club": "Manchester City",
+    "nationality": "Portugal",
+    "age": 26,
+    "img": "https://i.ibb.co/j3jLHQ0/Silva.png"
+  },
+  {
+    "id": 15,
+    "name": "Casemiro",
+    "salary": 3.65,
+    "club": "Real Madrid",
+    "nationality": "Brazil",
+    "age": 29,
+    "img": "https://i.ibb.co/KKzMSCt/casemiro.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Neymar Jr",
+    "salary": 8.49,
+    "club": "Paris S-G",
+    "nationality": "Brazil",
+    "age": 29,
+    "img": "https://i.ibb.co/vCn0tfD/neymar.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Antoine Griezmann",
+    "salary": 9.37,
+    "club": "FC Barcelona",
+    "nationality": "France",
+    "age": 29,
+    "img": "https://i.ibb.co/KwSWVmw/grizmann.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Ilkay Gündogan",
+    "salary": 8.64,
+    "club": "Manchester City",
+    "nationality": "Germany",
+    "age": 30,
+    "img": "https://i.ibb.co/hKDNXrR/illkay.png"
+  },
+  {
+    "id": 19,
+    "name": "Jan Kuchta",
+    "salary": 3.54,
+    "club": "Slavia Prague",
+    "nationality": "Czech Republic",
+    "age": 24,
+    "img": "https://i.ibb.co/xsZ2Qjc/jan-Kuchta.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Jorge de Frutos",
+    "salary": 5.63,
+    "club": "Levante",
+    "nationality": "Spain",
+    "age": 24,
+    "img": "https://i.ibb.co/hXHhcJv/jorge.jpg"
+  }
+]
