@@ -15,7 +15,7 @@ const Header = () => {
                 </a>
                 <div className="header-block" id="navbarSupportedContent">
                     <form className="d-flex ms-auto">
-                        <a href="#">Home</a><a href="#">Players</a><a href="#">Teams</a>
+                        <a href="#home">Home</a><a href="#players">Players</a><a href="#teams">Teams</a>
                     </form>
                 </div>
             </div>
