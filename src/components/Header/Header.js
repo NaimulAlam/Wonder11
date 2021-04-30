@@ -10,7 +10,7 @@ const Header = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
             <div className="container">
-                <a className="navbar-brand" href="/wonder11">
+                <a className="navbar-brand" href="/">
                     Wonder 11 {logo}
                 </a>
                 <div className="header-block" id="navbarSupportedContent">

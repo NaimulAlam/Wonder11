@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <footer className="container text-center py-4 text-secondary">
-            Naim &copy; All right reserved
+            Naimul Alam {(new Date().getFullYear())} || &copy; All right reserved
         </footer>
     );
 };
